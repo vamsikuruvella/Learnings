@@ -1,0 +1,12 @@
+Initialize NPM
+>> npm init
+Install vite
+>> npm install vite
+Create New React APP
+>> npm create vite@4.1.0
+>> React
+>> typescript
+Project name: … First Project
+✔ Package name: … first-project
+✔ Select a framework: › React
+✔ Select a variant: › TypeScript
