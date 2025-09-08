@@ -10,3 +10,8 @@ Project name: … First Project
 ✔ Package name: … first-project
 ✔ Select a framework: › React
 ✔ Select a variant: › TypeScript
+Done. Now run:
+
+  cd "First Project"
+  npm install
+  npm run dev
