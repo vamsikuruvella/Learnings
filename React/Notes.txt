@@ -15,3 +15,14 @@ Done. Now run:
   cd "First Project"
   npm install
   npm run dev
+
+
+
+
+
+
+
+
+
+Notes:
+cmd+d or cntl+d for mulitple cursor
